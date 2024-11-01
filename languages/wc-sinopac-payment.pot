@@ -1,0 +1,269 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Payment Gateway for SinoPac Bank on WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-19 12:58+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.4; wp-5.8.1\n"
+"X-Domain: wc-sinopac-payment"
+
+#: includes/settings-cc-payment.php:47 includes/settings-va-payment.php:47
+msgid "Advanced options"
+msgstr ""
+
+#: includes/settings-va-payment.php:33
+msgid ""
+"Allow your customers make payment with bank transfer to a virtual account "
+"through SinoPac bank."
+msgstr ""
+
+#: includes/settings-cc-payment.php:33
+msgid ""
+"Allow your customers make payment with credit card through out SinoPac bank."
+msgstr ""
+
+#: includes/settings-cc-payment.php:64 includes/settings-va-payment.php:64
+msgid "API credentials"
+msgstr ""
+
+#: includes/class-wc-sinopac-payment.php:156
+msgid "ATM payments cannot exceed $30,000 NTD."
+msgstr ""
+
+#: views/order-detail.php:21 views/order-received.php:17
+msgid "Bank code:"
+msgstr ""
+
+#: controllers/class-sinopac-payment.php:138
+msgid "Credit Card"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Credit card and virtual account (ATM) payment methods powered by SinoPac "
+"bank."
+msgstr ""
+
+#: includes/settings-cc-payment.php:31 includes/settings-va-payment.php:31
+msgid "Description"
+msgstr ""
+
+#: includes/settings-cc-payment.php:18
+msgid "Enable Credit Card Payment"
+msgstr ""
+
+#: includes/settings-cc-payment.php:55 includes/settings-va-payment.php:55
+msgid "Enable sandbox mode"
+msgstr ""
+
+#: includes/settings-va-payment.php:18
+msgid "Enable Virtal Account Payment"
+msgstr ""
+
+#: includes/settings-cc-payment.php:16 includes/settings-va-payment.php:16
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/class-wc-sinopac-payment.php:153
+#: includes/class-wc-sinopac-payment.php:154
+msgid "Error field value was found."
+msgstr ""
+
+#: includes/settings-cc-payment.php:79 includes/settings-cc-payment.php:84
+#: includes/settings-cc-payment.php:89 includes/settings-cc-payment.php:94
+#: includes/settings-cc-payment.php:114 includes/settings-cc-payment.php:119
+#: includes/settings-cc-payment.php:124 includes/settings-cc-payment.php:129
+#: includes/settings-va-payment.php:79 includes/settings-va-payment.php:84
+#: includes/settings-va-payment.php:89 includes/settings-va-payment.php:94
+#: includes/settings-va-payment.php:114 includes/settings-va-payment.php:119
+#: includes/settings-va-payment.php:124 includes/settings-va-payment.php:129
+msgid "Hash key"
+msgstr ""
+
+#: includes/class-wc-gateway-sinopac-va.php:29
+#: includes/settings-va-payment.php:34
+msgid "Have your customers pay with bank transfer to a virtual account."
+msgstr ""
+
+#: includes/class-wc-gateway-sinopac-cc.php:29
+#: includes/settings-cc-payment.php:34
+msgid "Have your customers pay with credit card."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/terrylinooo/wc-sinopac-payment"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://terryl.in/zh/"
+msgstr ""
+
+#: controllers/class-sinopac-payment.php:179
+msgid "Paid amount"
+msgstr ""
+
+#: controllers/class-sinopac-payment.php:178
+msgid "Paid date"
+msgstr ""
+
+#: includes/settings-cc-payment.php:39 includes/settings-va-payment.php:39
+msgid "Pay Button"
+msgstr ""
+
+#: views/order-detail.php:29 views/order-received.php:25
+msgid "Payment deadline:"
+msgstr ""
+
+#. Name of the plugin
+msgid "Payment Gateway for SinoPac Bank on WooCommerce"
+msgstr ""
+
+#: includes/settings-va-payment.php:42
+msgid "Place Order"
+msgstr ""
+
+#: includes/class-wc-sinopac-payment.php:165
+msgid "Please check out the error log to get details."
+msgstr ""
+
+#: includes/settings-cc-payment.php:42
+msgid "Proceed to Pay"
+msgstr ""
+
+#: controllers/class-sinopac-payment.php:171
+msgid "Received notification from SinoPac bank:"
+msgstr ""
+
+#: includes/settings-cc-payment.php:53 includes/settings-va-payment.php:53
+msgid "Sandbox"
+msgstr ""
+
+#: includes/settings-cc-payment.php:99 includes/settings-va-payment.php:99
+msgid "Sandbox credentials"
+msgstr ""
+
+#: includes/settings-cc-payment.php:58 includes/settings-va-payment.php:58
+#, php-format
+msgid ""
+"Sandbox mode can be used to test payments. Sign up for a <a href=\"%s\">"
+"developer account</a>."
+msgstr ""
+
+#: includes/settings-cc-payment.php:41 includes/settings-va-payment.php:41
+msgid "Set if the place order button should be renamed on selection."
+msgstr ""
+
+#: includes/settings-cc-payment.php:69 includes/settings-cc-payment.php:104
+#: includes/settings-va-payment.php:69 includes/settings-va-payment.php:104
+msgid "Shop No."
+msgstr ""
+
+#: includes/class-wc-gateway-sinopac-cc.php:28
+#: includes/settings-cc-payment.php:26
+msgid "SinoPac QPay: credit card"
+msgstr ""
+
+#: includes/class-wc-gateway-sinopac-va.php:28
+#: includes/settings-va-payment.php:26
+msgid "SinoPac QPay: virtual account"
+msgstr ""
+
+#. Author of the plugin
+msgid "Terry Lin"
+msgstr ""
+
+#: controllers/class-sinopac-payment.php:172
+msgid "The customer has paid for this order successfully."
+msgstr ""
+
+#: includes/class-wc-sinopac-payment.php:157
+msgid "The field contains invalid characters"
+msgstr ""
+
+#: includes/class-wc-sinopac-payment.php:155
+msgid "The field should adhere to the date format."
+msgstr ""
+
+#: includes/class-wc-sinopac-payment.php:151
+msgid "The field type is invalid."
+msgstr ""
+
+#: includes/class-wc-sinopac-payment.php:149
+msgid "The hash key is missing."
+msgstr ""
+
+#: includes/class-wc-sinopac-payment.php:148
+msgid "The hash keys corresponding to the pair A and B are required."
+msgstr ""
+
+#: includes/class-wc-sinopac-payment.php:150
+msgid "The QPay API requires data in order to process your request."
+msgstr ""
+
+#: includes/class-wc-sinopac-payment.php:146
+msgid "The service type is not currently supported."
+msgstr ""
+
+#: includes/class-wc-sinopac-payment.php:147
+msgid "The shop_no field is missing."
+msgstr ""
+
+#: includes/class-wc-sinopac-payment.php:159
+msgid "The Sinopac API returned an unexpected HTTP status code."
+msgstr ""
+
+#: includes/class-wc-sinopac-payment.php:152
+msgid "The size of the field has reached its limit."
+msgstr ""
+
+#: includes/class-wc-sinopac-payment.php:158
+msgid "There was an error with the cURL connection."
+msgstr ""
+
+#: includes/settings-cc-payment.php:25 includes/settings-va-payment.php:25
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: includes/settings-cc-payment.php:23 includes/settings-va-payment.php:23
+msgid "Title"
+msgstr ""
+
+#: controllers/class-sinopac-payment.php:189
+#: controllers/class-sinopac-payment.php:215
+msgid "Transation failed."
+msgstr ""
+
+#: controllers/class-sinopac-payment.php:175
+msgid "Transation is completed."
+msgstr ""
+
+#: controllers/class-sinopac-payment.php:176
+#: controllers/class-sinopac-payment.php:190
+msgid "Transation No"
+msgstr ""
+
+#: includes/class-wc-sinopac-payment.php:160
+msgid "Unexpected results were received from the Sinopac API."
+msgstr ""
+
+#: controllers/class-sinopac-payment.php:139
+msgid "Virtual Account"
+msgstr ""
+
+#: views/order-detail.php:25 views/order-received.php:21
+msgid "Virtual bank account:"
+msgstr ""
+
+#: includes/settings-cc-payment.php:74 includes/settings-cc-payment.php:109
+#: includes/settings-va-payment.php:74 includes/settings-va-payment.php:109
+msgid "X-Key ID"
+msgstr ""

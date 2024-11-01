@@ -1,0 +1,268 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Payment Gateway for SinoPac Bank on WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-10-14 14:00+0000\n"
+"PO-Revision-Date: 2023-05-19 13:16+0000\n"
+"Last-Translator: \n"
+"Language-Team: 繁體中文\n"
+"Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.4; wp-5.8.1\n"
+"X-Domain: wc-sinopac-payment"
+
+#: includes/settings-cc-payment.php:47 includes/settings-va-payment.php:47
+msgid "Advanced options"
+msgstr "進階選項"
+
+#: includes/settings-va-payment.php:33
+msgid ""
+"Allow your customers make payment with bank transfer to a virtual account "
+"through SinoPac bank."
+msgstr "讓您的顧客可以透過永豐銀行使用銀行轉帳到虛擬帳號進行付款。"
+
+#: includes/settings-cc-payment.php:33
+msgid ""
+"Allow your customers make payment with credit card through out SinoPac bank."
+msgstr "讓您的顧客可以透過永豐銀行使用信用卡進行付款。"
+
+#: includes/settings-cc-payment.php:64 includes/settings-va-payment.php:64
+msgid "API credentials"
+msgstr "API 憑證"
+
+#: includes/class-wc-sinopac-payment.php:156
+msgid "ATM payments cannot exceed $30,000 NTD."
+msgstr "ATM 付款方式不能超過新台幣 3 萬元。"
+
+#: views/order-detail.php:21 views/order-received.php:17
+msgid "Bank code:"
+msgstr "銀行代碼："
+
+#: controllers/class-sinopac-payment.php:138
+msgid "Credit Card"
+msgstr "信用卡"
+
+#. Description of the plugin
+msgid ""
+"Credit card and virtual account (ATM) payment methods powered by SinoPac "
+"bank."
+msgstr "信用卡和虛擬帳號 (ATM) 付款方式由永豐銀行提供。"
+
+#: includes/settings-cc-payment.php:31 includes/settings-va-payment.php:31
+msgid "Description"
+msgstr "描述"
+
+#: includes/settings-cc-payment.php:18
+msgid "Enable Credit Card Payment"
+msgstr "啟用信用卡付款"
+
+#: includes/settings-cc-payment.php:55 includes/settings-va-payment.php:55
+msgid "Enable sandbox mode"
+msgstr "啟用沙盒模式"
+
+#: includes/settings-va-payment.php:18
+msgid "Enable Virtal Account Payment"
+msgstr "啟用虛擬帳號付款"
+
+#: includes/settings-cc-payment.php:16 includes/settings-va-payment.php:16
+msgid "Enable/Disable"
+msgstr "啟用 / 停用"
+
+#: includes/class-wc-sinopac-payment.php:153
+#: includes/class-wc-sinopac-payment.php:154
+msgid "Error field value was found."
+msgstr "發現錯誤的欄位資料。"
+
+#: includes/settings-cc-payment.php:79 includes/settings-cc-payment.php:84
+#: includes/settings-cc-payment.php:89 includes/settings-cc-payment.php:94
+#: includes/settings-cc-payment.php:114 includes/settings-cc-payment.php:119
+#: includes/settings-cc-payment.php:124 includes/settings-cc-payment.php:129
+#: includes/settings-va-payment.php:79 includes/settings-va-payment.php:84
+#: includes/settings-va-payment.php:89 includes/settings-va-payment.php:94
+#: includes/settings-va-payment.php:114 includes/settings-va-payment.php:119
+#: includes/settings-va-payment.php:124 includes/settings-va-payment.php:129
+msgid "Hash key"
+msgstr "雜湊金鑰"
+
+#: includes/class-wc-gateway-sinopac-va.php:29
+#: includes/settings-va-payment.php:34
+msgid "Have your customers pay with bank transfer to a virtual account."
+msgstr "讓您的顧客使用銀行轉帳付款到虛擬帳號。"
+
+#: includes/class-wc-gateway-sinopac-cc.php:29
+#: includes/settings-cc-payment.php:34
+msgid "Have your customers pay with credit card."
+msgstr "讓您的顧客使用信用卡付款"
+
+#. URI of the plugin
+msgid "https://github.com/terrylinooo/wc-sinopac-payment"
+msgstr "https://github.com/terrylinooo/wc-sinopac-payment"
+
+#. Author URI of the plugin
+msgid "https://terryl.in/zh/"
+msgstr "https://terryl.in/zh/"
+
+#: controllers/class-sinopac-payment.php:179
+msgid "Paid amount"
+msgstr "付款金額"
+
+#: controllers/class-sinopac-payment.php:178
+msgid "Paid date"
+msgstr "付款日期"
+
+#: includes/settings-cc-payment.php:39 includes/settings-va-payment.php:39
+msgid "Pay Button"
+msgstr "付款按紐"
+
+#: views/order-detail.php:29 views/order-received.php:25
+msgid "Payment deadline:"
+msgstr "繳費期限："
+
+#. Name of the plugin
+msgid "Payment Gateway for SinoPac Bank on WooCommerce"
+msgstr "永豐銀行 WooCommerce 付款閘道"
+
+#: includes/settings-va-payment.php:42
+msgid "Place Order"
+msgstr "送出訂單"
+
+#: includes/class-wc-sinopac-payment.php:165
+msgid "Please check out the error log to get details."
+msgstr "請檢查錯誤日誌檔案中查看細節。"
+
+#: includes/settings-cc-payment.php:42
+msgid "Proceed to Pay"
+msgstr "進行付款"
+
+#: controllers/class-sinopac-payment.php:171
+msgid "Received notification from SinoPac bank:"
+msgstr "收到永豐銀行的訊息通知："
+
+#: includes/settings-cc-payment.php:53 includes/settings-va-payment.php:53
+msgid "Sandbox"
+msgstr "沙盒"
+
+#: includes/settings-cc-payment.php:99 includes/settings-va-payment.php:99
+msgid "Sandbox credentials"
+msgstr "沙盒憑證"
+
+#: includes/settings-cc-payment.php:58 includes/settings-va-payment.php:58
+#, php-format
+msgid ""
+"Sandbox mode can be used to test payments. Sign up for a <a href=\"%s\">"
+"developer account</a>."
+msgstr "沙盒模式可以用來測試付款。申請一個開發者帳號。"
+
+#: includes/settings-cc-payment.php:41 includes/settings-va-payment.php:41
+msgid "Set if the place order button should be renamed on selection."
+msgstr "如果應在選擇時重命名送出訂單按鈕，可以進行設定。"
+
+#: includes/settings-cc-payment.php:69 includes/settings-cc-payment.php:104
+#: includes/settings-va-payment.php:69 includes/settings-va-payment.php:104
+msgid "Shop No."
+msgstr "商店代碼"
+
+#: includes/class-wc-gateway-sinopac-cc.php:28
+#: includes/settings-cc-payment.php:26
+msgid "SinoPac QPay: credit card"
+msgstr "永豐 QPay - 信用卡"
+
+#: includes/class-wc-gateway-sinopac-va.php:28
+#: includes/settings-va-payment.php:26
+msgid "SinoPac QPay: virtual account"
+msgstr "永豐 QPay - 虛擬帳號"
+
+#. Author of the plugin
+msgid "Terry Lin"
+msgstr "Terry Lin"
+
+#: controllers/class-sinopac-payment.php:172
+msgid "The customer has paid for this order successfully."
+msgstr "顧客已成功付款此筆訂單。"
+
+#: includes/class-wc-sinopac-payment.php:157
+msgid "The field contains invalid characters"
+msgstr "資料欄位含有無效字元。"
+
+#: includes/class-wc-sinopac-payment.php:155
+msgid "The field should adhere to the date format."
+msgstr "資料欄位應為日期格式"
+
+#: includes/class-wc-sinopac-payment.php:151
+msgid "The field type is invalid."
+msgstr "無效的的資料欄位類型"
+
+#: includes/class-wc-sinopac-payment.php:149
+msgid "The hash key is missing."
+msgstr "缺少雜湊金鑰。"
+
+#: includes/class-wc-sinopac-payment.php:148
+msgid "The hash keys corresponding to the pair A and B are required."
+msgstr "需要 A 組及 B 組相對應的雜湊金鑰。"
+
+#: includes/class-wc-sinopac-payment.php:150
+msgid "The QPay API requires data in order to process your request."
+msgstr "豐收款 API 需要資料來處理您的請求。"
+
+#: includes/class-wc-sinopac-payment.php:146
+msgid "The service type is not currently supported."
+msgstr "目前不支援此資料欄位類型。"
+
+#: includes/class-wc-sinopac-payment.php:147
+msgid "The shop_no field is missing."
+msgstr "缺少商店代碼。"
+
+#: includes/class-wc-sinopac-payment.php:159
+msgid "The Sinopac API returned an unexpected HTTP status code."
+msgstr "豐收款 API 回傳未預期的 HTTP 狀態碼。"
+
+#: includes/class-wc-sinopac-payment.php:152
+msgid "The size of the field has reached its limit."
+msgstr "資料欄位的大小達到限制"
+
+#: includes/class-wc-sinopac-payment.php:158
+msgid "There was an error with the cURL connection."
+msgstr "當 cURL 函式處理連線時有錯誤發生。"
+
+#: includes/settings-cc-payment.php:25 includes/settings-va-payment.php:25
+msgid "This controls the title which the user sees during checkout."
+msgstr "這個選項控制使用這在結帳時看到的標題。"
+
+#: includes/settings-cc-payment.php:23 includes/settings-va-payment.php:23
+msgid "Title"
+msgstr "標題"
+
+#: controllers/class-sinopac-payment.php:189
+#: controllers/class-sinopac-payment.php:215
+msgid "Transation failed."
+msgstr "交易失敗。"
+
+#: controllers/class-sinopac-payment.php:175
+msgid "Transation is completed."
+msgstr "交易已完成。"
+
+#: controllers/class-sinopac-payment.php:176
+#: controllers/class-sinopac-payment.php:190
+msgid "Transation No"
+msgstr "交易編號"
+
+#: includes/class-wc-sinopac-payment.php:160
+msgid "Unexpected results were received from the Sinopac API."
+msgstr "收到來自豐收款 API 不如預期的結果。"
+
+#: controllers/class-sinopac-payment.php:139
+msgid "Virtual Account"
+msgstr "虛擬帳號"
+
+#: views/order-detail.php:25 views/order-received.php:21
+msgid "Virtual bank account:"
+msgstr "虛擬銀行帳號："
+
+#: includes/settings-cc-payment.php:74 includes/settings-cc-payment.php:109
+#: includes/settings-va-payment.php:74 includes/settings-va-payment.php:109
+msgid "X-Key ID"
+msgstr "X-Key 金鑰"
